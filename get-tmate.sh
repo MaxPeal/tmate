@@ -373,7 +373,7 @@ End of functions from https://github.com/client9/shlib
 EOF
 
 PROJECT_NAME="tmate"
-OWNER="tmate-io"
+OWNER="maxpeal"
 REPO="tmate"
 BINARY=tmate
 FORMAT=tar.xz
